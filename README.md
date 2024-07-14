@@ -1,5 +1,7 @@
 # SQL_PROJECT
 
+![image](https://github.com/user-attachments/assets/74990ac3-c650-403c-89a0-5c893050d6ba)
+
 INTRODUCTION
 
 This project dedicated to analyzing Pizza Hut sales data using SQL. In this project, we delve into the rich dataset provided
